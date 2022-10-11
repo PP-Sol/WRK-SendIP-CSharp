@@ -1,0 +1,21 @@
+﻿[Application.App.Repeat] = "60";
+
+[Application.IP.Server1]				= "checkip.dyndns.org";
+[Application.IP.Server2]				= "icanhazip.com";
+[Application.IP.Server3]				= "ifconfig.me/ip";
+[Application.IP.Retries]				= "3";
+
+[Application.File.IpStorage]			= "ip.txt";
+[Application.File.MailList]				= "emailList.txt";
+[Application.File.Email]				= "email.txt";
+
+[Application.Ftp.Host]					= "192.168.0.1";
+[Application.Ftp.Port]					= "25";
+[Application.Ftp.Login]					= "login";
+[Application.Ftp.Password]				= "password";
+[Application.Ftp.IpStorage]				= "/files/ip.txt";
+
+[Application.Mail.Server]				= "smtp.valcon.com";
+[Application.Mail.Port]					= "25";
+[Application.Mail.Login]				= "login";
+[Application.Mail.Password]				= "password";
